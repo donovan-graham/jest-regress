@@ -1,0 +1,20 @@
+{
+  "name": "jest-regress",
+  "version": "1.0.0",
+  "description": "Jest matcher for visual regression testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donovan-graham/jest-regress.git"
+  },
+  "keywords": ["jest", "matcher", "ui testing", "regression testing", "visual testing"],
+  "author": "Donovan Graham <donovan@platform7.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donovan-graham/jest-regress/issues"
+  },
+  "homepage": "https://github.com/donovan-graham/jest-regress#readme"
+}
